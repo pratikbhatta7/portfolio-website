@@ -1,0 +1,21 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: crimson;
+}
+
+.profile-image {
+  width: 250px;
+  border-radius: 50%;
+}
+.education-schoolimage {
+  width: 9cm;
+  height: 10cm;
+  border-radius: 2%;
+}
+
+.education-content {
+  align-content: center;
+}
